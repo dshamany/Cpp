@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dan/Desktop/SalesBunny/CAString.cpp
+CAString.h
+/Users/dan/Desktop/SalesBunny/CAString.h
+
+/Users/dan/Desktop/SalesBunny/CAString.h
+string
+-
+algorithm
+-
+vector
+-
+sstream
+-
+
+/Users/dan/Desktop/SalesBunny/FormValidation.cpp
+FormValidation.h
+/Users/dan/Desktop/SalesBunny/FormValidation.h
+
+/Users/dan/Desktop/SalesBunny/FormValidation.h
+iostream
+-
+CAString.h
+/Users/dan/Desktop/SalesBunny/CAString.h
+iterator
+-
+algorithm
+-
+vector
+-
+ctime
+-
+
+/Users/dan/Desktop/SalesBunny/main.cpp
+FormValidation.h
+/Users/dan/Desktop/SalesBunny/FormValidation.h
+

@@ -1,0 +1,3 @@
+/Users/dan/Desktop/SalesBunny/build/CMakeFiles/rebuild_cache.dir
+/Users/dan/Desktop/SalesBunny/build/CMakeFiles/edit_cache.dir
+/Users/dan/Desktop/SalesBunny/build/CMakeFiles/SalesBunny2.dir
